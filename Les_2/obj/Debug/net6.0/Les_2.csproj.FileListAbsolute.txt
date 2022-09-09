@@ -1,0 +1,15 @@
+K:\Маркетинг\Обучение\Lesson_prog_c_7\Les_2\bin\Debug\net6.0\Les_2.exe
+K:\Маркетинг\Обучение\Lesson_prog_c_7\Les_2\bin\Debug\net6.0\Les_2.deps.json
+K:\Маркетинг\Обучение\Lesson_prog_c_7\Les_2\bin\Debug\net6.0\Les_2.runtimeconfig.json
+K:\Маркетинг\Обучение\Lesson_prog_c_7\Les_2\bin\Debug\net6.0\Les_2.dll
+K:\Маркетинг\Обучение\Lesson_prog_c_7\Les_2\bin\Debug\net6.0\Les_2.pdb
+K:\Маркетинг\Обучение\Lesson_prog_c_7\Les_2\obj\Debug\net6.0\Les_2.csproj.AssemblyReference.cache
+K:\Маркетинг\Обучение\Lesson_prog_c_7\Les_2\obj\Debug\net6.0\Les_2.GeneratedMSBuildEditorConfig.editorconfig
+K:\Маркетинг\Обучение\Lesson_prog_c_7\Les_2\obj\Debug\net6.0\Les_2.AssemblyInfoInputs.cache
+K:\Маркетинг\Обучение\Lesson_prog_c_7\Les_2\obj\Debug\net6.0\Les_2.AssemblyInfo.cs
+K:\Маркетинг\Обучение\Lesson_prog_c_7\Les_2\obj\Debug\net6.0\Les_2.csproj.CoreCompileInputs.cache
+K:\Маркетинг\Обучение\Lesson_prog_c_7\Les_2\obj\Debug\net6.0\Les_2.dll
+K:\Маркетинг\Обучение\Lesson_prog_c_7\Les_2\obj\Debug\net6.0\refint\Les_2.dll
+K:\Маркетинг\Обучение\Lesson_prog_c_7\Les_2\obj\Debug\net6.0\Les_2.pdb
+K:\Маркетинг\Обучение\Lesson_prog_c_7\Les_2\obj\Debug\net6.0\Les_2.genruntimeconfig.cache
+K:\Маркетинг\Обучение\Lesson_prog_c_7\Les_2\obj\Debug\net6.0\ref\Les_2.dll

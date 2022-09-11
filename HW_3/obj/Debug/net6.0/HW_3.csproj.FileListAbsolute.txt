@@ -1,0 +1,15 @@
+K:\Маркетинг\Обучение\Lesson_prog_c_7\HW_3\obj\Debug\net6.0\HW_3.csproj.AssemblyReference.cache
+K:\Маркетинг\Обучение\Lesson_prog_c_7\HW_3\obj\Debug\net6.0\HW_3.GeneratedMSBuildEditorConfig.editorconfig
+K:\Маркетинг\Обучение\Lesson_prog_c_7\HW_3\obj\Debug\net6.0\HW_3.AssemblyInfoInputs.cache
+K:\Маркетинг\Обучение\Lesson_prog_c_7\HW_3\obj\Debug\net6.0\HW_3.AssemblyInfo.cs
+K:\Маркетинг\Обучение\Lesson_prog_c_7\HW_3\obj\Debug\net6.0\HW_3.csproj.CoreCompileInputs.cache
+K:\Маркетинг\Обучение\Lesson_prog_c_7\HW_3\bin\Debug\net6.0\HW_3.exe
+K:\Маркетинг\Обучение\Lesson_prog_c_7\HW_3\bin\Debug\net6.0\HW_3.deps.json
+K:\Маркетинг\Обучение\Lesson_prog_c_7\HW_3\bin\Debug\net6.0\HW_3.runtimeconfig.json
+K:\Маркетинг\Обучение\Lesson_prog_c_7\HW_3\bin\Debug\net6.0\HW_3.dll
+K:\Маркетинг\Обучение\Lesson_prog_c_7\HW_3\bin\Debug\net6.0\HW_3.pdb
+K:\Маркетинг\Обучение\Lesson_prog_c_7\HW_3\obj\Debug\net6.0\HW_3.dll
+K:\Маркетинг\Обучение\Lesson_prog_c_7\HW_3\obj\Debug\net6.0\refint\HW_3.dll
+K:\Маркетинг\Обучение\Lesson_prog_c_7\HW_3\obj\Debug\net6.0\HW_3.pdb
+K:\Маркетинг\Обучение\Lesson_prog_c_7\HW_3\obj\Debug\net6.0\HW_3.genruntimeconfig.cache
+K:\Маркетинг\Обучение\Lesson_prog_c_7\HW_3\obj\Debug\net6.0\ref\HW_3.dll

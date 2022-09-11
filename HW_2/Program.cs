@@ -1,6 +1,4 @@
-﻿Console.WriteLine(" Vvedtite chislo");
-int d = int.Parse(Console.ReadLine());
-int c = 0;
+﻿
 
 int[,] GetArray(int m, int n) {
   int[,] result = new int[m, n];
@@ -24,6 +22,10 @@ void PrintArray(int[,] array) {
     }
 }
 
+Console.WriteLine(" Vvedtite chislo");
+int d = int.Parse(Console.ReadLine());
+int c = 0;
+
 Console.WriteLine(" Vvedtite kolvo strok");
 int rows = int.Parse(Console.ReadLine());
 
@@ -32,15 +34,15 @@ int columns = int.Parse(Console.ReadLine());
 
 int[,] array = GetArray(rows, columns);
 PrintArray(array);
-
+Console.WriteLine();
 
 for (int i = 0; i < array.GetLength(0); ++i) 
 {
     for (int j = 0; j < array.GetLength(1); ++j)
     {
-        if (array[i,j] != d)
+        if (array[i,j] == d)
         {
-        c = array[i,j];
+        c = d;
         }
     }
 }

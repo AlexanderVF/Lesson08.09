@@ -57,3 +57,4 @@ else
 {
     Console.WriteLine(d + " -> takoe chislo v massive est'");
 }
+

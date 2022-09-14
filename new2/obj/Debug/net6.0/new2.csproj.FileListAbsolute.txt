@@ -1,0 +1,15 @@
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_7\new2\obj\Debug\net6.0\new2.csproj.AssemblyReference.cache
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_7\new2\obj\Debug\net6.0\new2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_7\new2\obj\Debug\net6.0\new2.AssemblyInfoInputs.cache
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_7\new2\obj\Debug\net6.0\new2.AssemblyInfo.cs
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_7\new2\obj\Debug\net6.0\new2.csproj.CoreCompileInputs.cache
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_7\new2\bin\Debug\net6.0\new2.exe
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_7\new2\bin\Debug\net6.0\new2.deps.json
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_7\new2\bin\Debug\net6.0\new2.runtimeconfig.json
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_7\new2\bin\Debug\net6.0\new2.dll
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_7\new2\bin\Debug\net6.0\new2.pdb
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_7\new2\obj\Debug\net6.0\new2.dll
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_7\new2\obj\Debug\net6.0\refint\new2.dll
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_7\new2\obj\Debug\net6.0\new2.pdb
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_7\new2\obj\Debug\net6.0\new2.genruntimeconfig.cache
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_7\new2\obj\Debug\net6.0\ref\new2.dll
